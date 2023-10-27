@@ -1,0 +1,10 @@
+# Terraform files
+terraform.tfvars
+.terraform
+*.lock.hcl
+
+# Python files
+__pycache__
+
+# Chaves de acesso
+*.pem
